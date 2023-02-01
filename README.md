@@ -36,22 +36,20 @@
 <p align="center"><strong>☕ FullName : Nguyễn Đức Thắng <br> Birdayth : 29/10/2001 <br> Phone : 033-265-2238 <br> Address : Thanh Xuân - Hà Nội <br> Gmail : duwcsthang2001@gmail.com 
 </strong></p>
 <br>
-<h2 align="center">📑 My Personality 📑</h2>
+<h2 align="center"> My Personality </h2>
 <p align="center"><strong>☕ 65% Introvert  ,learn and explore technology , have a passion for programming 
 </strong></p>
-<h2 align="center">📑 My experience 📑</h2>
+<h2 align="center"> My experience </h2>
 <p align="center"><strong>☕ less than 1 year experience in web development
 </strong></p>
-<h2 align="center">📑 Goal For Yourself 📑</h2>
+<h2 align="center"> Goal For Yourself </h2>
 <p align="center"><strong>☕  Find a job That matches Your Passion and Abilities , Find an environment to develop, learn more experience and knowledge , Always try to Develop Yourself
 </strong></p>
 <br>
 <h2 align="center">📑 My Favorites 📑</h2>
 <br>
-<div display : flex ; flex-direction: row>
-  <img src="https://img.freepik.com/free-vector/isometric-people-working-with-technology_52683-19078.jpg?w=2000" width="200" height="100" alt="" />
-<img src="https://cdn.tgdd.vn/GameApp/4/221941/Screentshots/lien-minh-huyen-thoai-game-moba-pho-bien-nhat-the-gioi-21-05-2020-2.jpg" width="200" height="100" alt="" />
-<img src="https://bizweb.dktcdn.net/100/303/962/files/87126502-2509242206005371-2073523065622364160-n-f697e400-e8b2-4bb1-9698-d00b50b2d9c3.jpg?v=1627804121650" width="200" height="100" alt="" />
-<img src="https://media.istockphoto.com/id/910293318/vector/running-men-icon.jpg?s=612x612&w=0&k=20&c=G5Azj4uEBHjfA7WXRQbsNx0YBOWIWpvoMvptOaJtEVI=" width="350" height="100"alt="" />
-<img src="https://img.ws.mms.shopee.vn/2ff4f2960c3c748aa2bd1cceda4fad8f" width="200" height="100"alt="" />
-</div>
+<p align="center">
+<img src="https://img.freepik.com/free-vector/isometric-people-working-with-technology_52683-19078.jpg?w=2000" width="300" height="150" alt="" />
+<img src="https://cdn.tgdd.vn/GameApp/4/221941/Screentshots/lien-minh-huyen-thoai-game-moba-pho-bien-nhat-the-gioi-21-05-2020-2.jpg" width="300" height="150" alt="" />
+<img src="https://media.istockphoto.com/id/910293318/vector/running-men-icon.jpg?s=612x612&w=0&k=20&c=G5Azj4uEBHjfA7WXRQbsNx0YBOWIWpvoMvptOaJtEVI=" width="300" height="150"alt="" />
+</p>
