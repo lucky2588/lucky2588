@@ -1,25 +1,16 @@
 <a href="#" target="_blank">
-<<<<<<< HEAD
-  <img src="svg/57768.jpg" width="1200" alt="trungquandev-official" />
-=======
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
->>>>>>> c964888d2dda4706ed8526dffae601dad71241f9
+                                                  WELCOME TO GITHUB OF ME ^.^
+  <img src="svg/57768.jpg" width="1200" alt="" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
+<span><img src="https://maitroisang.files.wordpress.com/2019/05/java-logo.jpg?w=640" alt="Java" title="Java" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
@@ -27,37 +18,34 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
+<span><img src="https://techvccloud.mediacdn.vn/2020/9/17/mysql-1-1600340047538868003500-crop-160034079526453914971.png" alt="MySQL" title="MySQL" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+&nbsp;
+<span><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" alt="git logo" title="gitHub" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="Visual Studio Code logo" title="IntelliJ" height="25" /></span>
+&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Visual Studio Code logo" title="Aphache" height="25" /></span>
+&nbsp;
 
 <br>
 <br>
 
-<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
+<h2 align="center">📖 Some information about Me 📖</h2>
 <br>
-<p>
-  <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-    <strong>☕ Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
-  </a>
-</p>
-<p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
-<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
-<p>
-  <strong>🔗 Link giới thiệu chi tiết: <a href="https://youtu.be/63opfUkPq6k" target="_blank">Lập Trình MERN Stack Nâng Cao - Học Thực Tế Để Đi Làm</a></strong>
-  <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/trungquandev</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">trungquandev.official@gmail.com</a></strong>
-</p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
-</a>
-
+<p align="center"><strong>☕ FullName : Nguyễn Đức Thắng <br> Birdayth : 29/10/2001 <br> Phone : 033-265-2238 <br> Address : Thanh Xuân - Hà Nội <br> Gmail : duwcsthang2001@gmail.com 
+</strong></p>
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<h2 align="center">📑 My Favorites 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="https://res.edu.vn/wp-content/uploads/2021/12/ielts-writing-task-2-topic-technology-2.jpg" width="350" height="550" alt="" />
+<img src="https://cdn.tgdd.vn/GameApp/4/221941/Screentshots/lien-minh-huyen-thoai-game-moba-pho-bien-nhat-the-gioi-21-05-2020-2.jpg" width="350" height="350" alt="" />
+<img src="https://bizweb.dktcdn.net/100/303/962/files/87126502-2509242206005371-2073523065622364160-n-f697e400-e8b2-4bb1-9698-d00b50b2d9c3.jpg?v=1627804121650" width="350" height="550" alt="" />
+<img src="https://media.istockphoto.com/id/910293318/vector/running-men-icon.jpg?s=612x612&w=0&k=20&c=G5Azj4uEBHjfA7WXRQbsNx0YBOWIWpvoMvptOaJtEVI=" width="350" height="550"alt="" />
+<img src="https://img.ws.mms.shopee.vn/2ff4f2960c3c748aa2bd1cceda4fad8f" width="350" height="550"alt="" />
 </a>
