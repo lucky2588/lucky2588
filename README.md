@@ -44,6 +44,7 @@
 <h2 align="center"> Goal For Yourself </h2>
 <p align="center"><strong>☕  Find a job That matches Your Passion and Abilities , Find an environment to develop, learn more experience and knowledge , Always try to Develop Yourself
 </strong></p>
+<p>My CV : https://www.topcv.vn/xem-cv/VFMNCFRWDlUEAQAFUQIDUlxZVVEBBwVVB1JTCgd41d  </p>
 <br>
 <h2 align="center">📑 My Favorites 📑</h2>
 <br>
