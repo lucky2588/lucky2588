@@ -35,11 +35,8 @@
 <br>
 <p align="center"><strong>☕ FullName : Nguyễn Đức Thắng <br> Birdayth : 29/10/2001 <br> Phone : 033-265-2238 <br> Address : Thanh Xuân - Hà Nội <br> Gmail : duwcsthang2001@gmail.com 
 </strong></p>
-<h2 align="center"> My Personality </h2>
-<p align="center"><strong>☕ 65% Introvert  ,learn and explore technology , have a passion for programming 
-</strong></p>
 <h2 align="center"> My experience </h2>
-<p align="center"><strong>☕ less than 1 year experience in web development
+<p align="center">More than 1 year of experience in the field of web software development<strong>☕ 
 </strong></p>
 <h2 align="center"> Goal For Yourself </h2>
 <p align="center"><strong>☕  Find a job That matches Your Passion and Abilities , Find an environment to develop, learn more experience and knowledge , Always try to Develop Yourself
